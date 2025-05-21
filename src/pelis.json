@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Jurassic Park",
+    "tags": ["ciencia ficción", "aventura", "terror"]
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter",
+    "tags": ["fantasía", "aventura", "magia"]
+  },
+  {
+    "id": 3,
+    "title": "Toy Story",
+    "tags": ["animación", "comedia", "familia"]
+  },
+  {
+    "id": 4,
+    "title": "It",
+    "tags": ["terror", "suspenso", "drama"]
+  },
+  {
+    "id": 5,
+    "title": "El Rey León",
+    "tags": ["animación", "drama", "aventura"]
+  },
+  {
+    "id": 6,
+    "title": "El Padrino",
+    "tags": ["drama", "crimen", "clásico"]
+  },
+  {
+    "id": 7,
+    "title": "Titanic",
+    "tags": ["drama", "romance", "historia"]
+  }
+]
